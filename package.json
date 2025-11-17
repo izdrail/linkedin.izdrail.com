@@ -1,0 +1,7 @@
+{
+  "name": "linkedin-piece",
+  "version": "0.0.1",
+  "author": {"name": "Stefan Bogdan"},
+  "license": "CC0-1.0",
+  "keywords": ["activepieces", "linkedin"]
+}
