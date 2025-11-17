@@ -25,7 +25,7 @@ export const linkedinAuth = PieceAuth.OAuth2({
 });
 
 export const linkedin = createPiece({
-  displayName: 'LinkedIn',
+  displayName: 'LinkedIn 2025',
   description: 'Connect and network with professionals',
 
   minimumSupportedRelease: '0.30.0',
